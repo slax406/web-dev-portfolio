@@ -152,3 +152,33 @@ main section{
     color: #474747;
 
 }
+
+
+/* resume section */
+
+.resume-column-title{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.resume-cointainer{
+    display: flex;
+    gap: 50px;
+}
+.resume-item-title{
+    color:#474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.resume-item-institute{
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+.resume-item-description, .resume-item-institute{
+    color: #474747;
+    
+}
