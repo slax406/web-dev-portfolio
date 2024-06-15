@@ -1,0 +1,8 @@
+*{
+    font-family: 'Opensans' , sans-serif;
+}
+
+/* Nav related styles */
+nav{
+    display: flex;
+}
