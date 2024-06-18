@@ -182,3 +182,13 @@ main section{
     color: #474747;
     
 }
+
+.resume-cointainer hr{
+    margin: 30px;
+}
+
+
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+}
